@@ -1,5 +1,5 @@
 # 📚 Edvora – AI-Powered Learning Platform
-**[Live Demo →](https://penny-path-flax.vercel.app/)**  
+**[Live Demo →](https://edvora-chi-gules.vercel.app/)**  
 **[GitHub Repo →](https://github.com/Aryan0512398/Edvora)**
 
 
